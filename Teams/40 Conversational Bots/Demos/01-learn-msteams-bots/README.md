@@ -1,8 +1,15 @@
 # Demo: Creating conversational bots for Microsoft Teams
 
+<<<<<<< HEAD
 This completed project is the result of the lab exercise **Creating conversational bots for Microsoft Teams** 
 
 https://docs.microsoft.com/en-us/learn/modules/msteams-conversation-bots/3-exercise-conversation-bots
+=======
+This completed project is the result of the lab exercise **Exercise 1 Creating conversational bots for Microsoft Teams** in the Extend Microsoft Teams – Associate -> Create interactive conversational bots for Microsoft Teams -> Exercise 1: Creating conversational bots for Microsoft Teams
+
+https://docs.microsoft.com/en-us/learn/modules/msteams-conversation-bots/3-exercise-conversation-bots 
+
+>>>>>>> 4a68c1e6234ef8db4dfad83776e4e2dd29539c61
 that is referenced in the [README](./../../README.md) in this repo.
 
 ## Prerequisites
@@ -42,9 +49,15 @@ If you do not have the minimum versions of these prerequisites installed on your
 - Rename the file **.env.example** to **.env**.
 
   Update the
+<<<<<<< HEAD
 
   `MICROSOFT_APP_ID`=9db4e892-9277-4c6e-9760-2cb0877aa54c
 
+=======
+  
+  `MICROSOFT_APP_ID`=9db4e892-9277-4c6e-9760-2cb0877aa54c
+  
+>>>>>>> 4a68c1e6234ef8db4dfad83776e4e2dd29539c61
   `MICROSOFT_APP_PASSWORD`=LB_XfOTSI768uEaR0X.DaxL8Lp_6-57.3a
   
   properties with the bot's Azure AD app ID and secret.
