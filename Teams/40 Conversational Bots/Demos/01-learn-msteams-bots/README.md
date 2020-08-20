@@ -1,6 +1,6 @@
 # Demo: Creating conversational bots for Microsoft Teams
 
-This completed project is the result of the lab exercise **Creating conversational bots for Microsoft Teams**
+This completed project is the result of the lab exercise **Exercise 1 Creating conversational bots for Microsoft Teams** in the Extend Microsoft Teams – Associate -> Create interactive conversational bots for Microsoft Teams -> Exercise 1: Creating conversational bots for Microsoft Teams
 
 https://docs.microsoft.com/en-us/learn/modules/msteams-conversation-bots/3-exercise-conversation-bots 
 
