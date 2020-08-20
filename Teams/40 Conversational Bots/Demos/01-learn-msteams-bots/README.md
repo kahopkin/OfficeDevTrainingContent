@@ -49,15 +49,9 @@ If you do not have the minimum versions of these prerequisites installed on your
 - Rename the file **.env.example** to **.env**.
 
   Update the
-<<<<<<< HEAD
 
   `MICROSOFT_APP_ID`=9db4e892-9277-4c6e-9760-2cb0877aa54c
 
-=======
-  
-  `MICROSOFT_APP_ID`=9db4e892-9277-4c6e-9760-2cb0877aa54c
-  
->>>>>>> 4a68c1e6234ef8db4dfad83776e4e2dd29539c61
   `MICROSOFT_APP_PASSWORD`=LB_XfOTSI768uEaR0X.DaxL8Lp_6-57.3a
   
   properties with the bot's Azure AD app ID and secret.
