@@ -1,6 +1,5 @@
 # Demo: Creating conversational bots for Microsoft Teams
 
-<<<<<<< HEAD
 This completed project is the result of the lab exercise **Creating conversational bots for Microsoft Teams** 
 
 https://docs.microsoft.com/en-us/learn/modules/msteams-conversation-bots/3-exercise-conversation-bots
@@ -9,7 +8,6 @@ This completed project is the result of the lab exercise **Exercise 1 Creating c
 
 https://docs.microsoft.com/en-us/learn/modules/msteams-conversation-bots/3-exercise-conversation-bots 
 
->>>>>>> 4a68c1e6234ef8db4dfad83776e4e2dd29539c61
 that is referenced in the [README](./../../README.md) in this repo.
 
 ## Prerequisites
