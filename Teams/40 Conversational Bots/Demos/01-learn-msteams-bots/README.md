@@ -1,6 +1,8 @@
 # Demo: Creating conversational bots for Microsoft Teams
 
-This completed project is the result of the lab exercise **Creating conversational bots for Microsoft Teams** that is referenced in the [README](./../../README.md) in this repo.
+This completed project is the result of the lab exercise **Creating conversational bots for Microsoft Teams** 
+https://docs.microsoft.com/en-us/learn/modules/msteams-conversation-bots/3-exercise-conversation-bots
+that is referenced in the [README](./../../README.md) in this repo.
 
 ## Prerequisites
 
@@ -38,7 +40,10 @@ If you do not have the minimum versions of these prerequisites installed on your
 - Create a new Bot Channel Registration in an Azure subscription & obtain the Azure AD App ID and secret (*see the lab exercise referenced above for details on how to do this*)
 - Rename the file **.env.example** to **.env**.
 
-  Update the `MICROSOFT_APP_ID` and `MICROSOFT_APP_PASSWORD` properties with the bot's Azure AD app ID and secret.
+  Update the 
+  `MICROSOFT_APP_ID`=9db4e892-9277-4c6e-9760-2cb0877aa54c
+  `MICROSOFT_APP_PASSWORD`=LB_XfOTSI768uEaR0X.DaxL8Lp_6-57.3a
+  properties with the bot's Azure AD app ID and secret.
 
   You do not need to edit any values in this file unless you have an existing ngrok license with a reserved subdomain name & auth key. These are only available to paid paid ngrok accounts, but it is not necessary to run the demo.
 - Update the **./src/manifest/manifest.json** file's placeholders to reference the Azure AD app's ID.
