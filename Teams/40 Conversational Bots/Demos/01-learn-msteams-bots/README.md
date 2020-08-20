@@ -46,7 +46,7 @@ If you do not have the minimum versions of these prerequisites installed on your
   
   `MICROSOFT_APP_ID`=9db4e892-9277-4c6e-9760-2cb0877aa54c
   
-  `MICROSOFT_APP_PASSWORD` LB_XfOTSI768uEaR0X.DaxL8Lp_6-57.3a
+  `MICROSOFT_APP_PASSWORD`=LB_XfOTSI768uEaR0X.DaxL8Lp_6-57.3a
   
   properties with the bot's Azure AD app ID and secret.
 
