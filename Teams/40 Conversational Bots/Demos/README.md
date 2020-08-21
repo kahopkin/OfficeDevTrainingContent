@@ -9,5 +9,5 @@ This folder contains the demos for the Microsoft Teams module on **Task-oriented
 1. [Proactive messages from bots](./03-learn-msteams-bots)
 
 ## Running demonstrations
-
+The projects are built with Node.js using Yeoman Generator for Microsoft Teams.  The same code is also at 
 Each demonstration is included as source code for convenience.
